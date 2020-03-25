@@ -1,82 +1,12 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name":"Lamborghini Aventador SVJ",
-      "price":1000,
-      "images":"https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/1-lamborghini-aventador-svj-2019-rt-hero-front.jpg?itok=OtqNqRot",
-      "descrition":""
-    },
-     {
-      "id": 2,
-      "name":"Lamborghini Aventador LP750-SV",
-      "price":1000,
-      "images":"https://product.hstatic.net/1000288177/product/74555_master.jpg",
-      "descrition":""
-    },
-     {
-      "id":3,
-      "name":"BMW i8",
-      "price":1000,
-      "images":"https://giaxeoto.vn/admin/webroot/img/upload2/bmw-i8-coupe.jpg"
-    },
-    {
-      "id":4,
-      "name":"BMW i8",
-      "price":1000,
-      "images":"https://giaxeoto.vn/admin/webroot/img/upload2/bmw-i8-coupe.jpg"
-    },
-        {
-      "id": 5,
-      "name":"Ferrari F8 Tributo",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w660/Uploaded/bgtngt/2019_12_24/660782.jpg",
-      "descrition":""
-    },
-     {
-      "id": 6,
-      "name":"Ferrari 812 GTS",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w1024/Uploaded/neg_estpyge/2019_09_11/2020ferrari812gts.jpg",
-      "descrition":""
-    },
-     {
-      "id":7,
-      "name":"McLaren T50",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w660/Uploaded/bgtngt/2020_03_14/Gordon_Murray_T50_Supercar_01.jpg"
-    },
-    {
-      "id":8,
-      "name":"Rimac C_Two",
-      "price":1000,
-      "images":"https://vnn-imgs-f.vgcloud.vn/2019/03/10/11/sieu-xe-dong-co-manh-2.jpg"
-    },
-        {
-      "id": 9,
-      "name":"Huracan EVO",
-      "price":1000,
-      "images":"https://cdn.24h.com.vn/upload/1-2019/images/2019-01-08/24h-huracan-2-1546920350-209-width660height330.jpg",
-      "descrition":""
-    },
-     {
-      "id":10,
-      "name":"Lamborghini Veneno",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w1024/Uploaded/dqvpxpck/2019_12_20/2_Auctioncar.jpg"
-    },
-    {
-      "id":11,
-      "name":" Ferrari LaFerrari",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w1024/Uploaded/dqvpxpck/2019_12_20/5_Auctioncar.jpg"
-    },
-       {
-      "id":12,
-      "name":"Koenigsegg Agera RS",
-      "price":1000,
-      "images":"https://znews-photo.zadn.vn/w1024/Uploaded/dqvpxpck/2019_12_20/6.5_Auctioncar.jpg"
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
